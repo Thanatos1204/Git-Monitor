@@ -156,9 +156,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@TheReal_Bhargav](https://x.com/TheReal_Bhargav) - bhargav.dev.tools@gmail.com - [bento.me/bhargav-pandit](https://bento.me/bhargav-pandit) -[LinkedIn](https://www.linkedin.com/in/bhargavprasadpandit/)
 
-Project Link: [https://github.com/yourusername/github-repository-monitor](https://github.com/yourusername/github-repository-monitor)
+Project Link: [https://github.com/Thanatos1204/Git-Monitor](https://github.com/Thanatos1204/Git-Monitor)
 
 ## Acknowledgements
 
