@@ -2,7 +2,7 @@
 
 A real-time dashboard for monitoring GitHub repositories and commit activities across projects you collaborate on.
 
-![GitHub Repository Monitor](public/ReadMe.png)
+![GitHub Repository Monitor](public/ReadMe1.png)
 
 ## Overview
 
