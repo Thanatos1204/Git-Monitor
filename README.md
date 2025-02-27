@@ -2,7 +2,7 @@
 
 A real-time dashboard for monitoring GitHub repositories and commit activities across projects you collaborate on.
 
-![GitHub Repository Monitor](https://placehold.co/600x400?text=GitHub+Repository+Monitor)
+![GitHub Repository Monitor](https://imgur.com/a/81XsaRt)
 
 ## Overview
 
